@@ -5,10 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Internship](https://img.shields.io/badge/Internship-Syntecxhub-purple)
 
-> **Week 1 Project | Machine Learning Internship @ Syntecxhub**  
-> Predicting house prices using Linear Regression on a real Kaggle dataset.
-
----
 
 ## 📌 Project Overview
 
