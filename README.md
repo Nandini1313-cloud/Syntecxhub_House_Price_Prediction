@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction — Syntecxhub ML Internship
+# 🏠 House Price Prediction
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
@@ -168,17 +168,10 @@ print(f"Predicted Price: ₹{price[0]:,.0f}")
 ## 👤 Author
 
 **Your Name**  
-Machine Learning Intern @ Syntecxhub  
 📧 your.email@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
-
-## 🏢 About Syntecxhub
-
-Syntecxhub is a forward-thinking company bridging learning with practical experience,  
-offering internship projects in Web Development, Data Science, ML, and more.  
-🌐 [www.syntecxhub.com](https://www.syntecxhub.com)
 
 ---
 
